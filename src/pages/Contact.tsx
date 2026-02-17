@@ -105,7 +105,7 @@ const Contact = () => {
                   </div>
                   <div className="flex items-center gap-3">
                     <MessageCircle size={18} className="text-accent flex-shrink-0" />
-                    <a href="https://wa.me/32499202143" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">WhatsApp</a>
+                    <a href="https://wa.me/32499202143?text=Hallo%2C+ik+wil+een+offerte+aanvragen" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">WhatsApp</a>
                   </div>
                   <div className="flex items-center gap-3">
                     <Mail size={18} className="text-accent flex-shrink-0" />

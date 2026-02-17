@@ -79,7 +79,7 @@ const Index = () => {
               {t('hero.cta.call')} — 0499 20 21 43
             </a>
             <a
-              href="https://wa.me/32499202143"
+              href="https://wa.me/32499202143?text=Hallo%2C+ik+wil+een+offerte+aanvragen"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white font-heading font-bold uppercase px-8 py-4 rounded-md transition-colors text-sm tracking-wider"
