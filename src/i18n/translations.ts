@@ -71,7 +71,7 @@ export const translations: Record<string, Record<Language, string>> = {
   },
 
   // Body work
-  'services.body.title': { nl: 'Kėbulo darbai', fr: 'Travaux de carrosserie', en: 'Body Work' },
+  'services.body.title': { nl: 'Carrosseriewerk', fr: 'Travaux de carrosserie', en: 'Body Work' },
   'services.body.dents': { nl: 'Deuk herstelling', fr: 'Réparation de bosses', en: 'Dent Repair' },
   'services.body.dents.desc': {
     nl: 'Professionele verwijdering van deuken en bulten met behoud van de originele lak.',
